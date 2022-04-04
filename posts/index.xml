@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Retsnom</title>
+    <link>http://Retsomm.github.io/posts/</link>
+    <description>Recent content in Posts on Retsnom</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Mon, 04 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://Retsomm.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>test</title>
+      <link>http://Retsomm.github.io/posts/test/</link>
+      <pubDate>Mon, 04 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://Retsomm.github.io/posts/test/</guid>
+      <description>Hello World
+我是Retsnom
+一級標題    二級標題    六級標題     火鍋 牛排   Hello  I   am   Happy
+ Elon Musk
+print(&amp;#34;Hello World&amp;#34;) print(&amp;#34;Hello World&amp;#34;) print(&amp;#34;Hello World&amp;#34;) Excited to hand over the first production cars made by Giga Berlin-Brandenburg tomorrow!
+&amp;mdash; Elon Musk (@elonmusk) March 21, 2022    </description>
+    </item>
+    
+    <item>
+      <title>my first post</title>
+      <link>http://Retsomm.github.io/posts/my-first-post/</link>
+      <pubDate>Sun, 03 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://Retsomm.github.io/posts/my-first-post/</guid>
+      <description>&lt;p&gt;開始在這裡記錄生活。包含日常、娛樂、學習、轉職、閱讀等構成我生活的一切。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
